@@ -39,33 +39,6 @@ Code-a-Pookalam-2025/
 ## 🎊 Happy Onam! 🎊
 *Submitted for Code-a-Pookalam 2025 by TinkerHub RIT*
 ```
-
----
-
-## 💡 Tips for Participants
-
-- **Get Creative**: Think beyond traditional Pookalam patterns - add animations, interactivity, or 3D effects!
-- **Document Well**: A good README makes your submission stand out
-- **Include Visuals**: Screenshots, GIFs, or videos make your work more engaging
-- **Share Your Process**: Explain your approach and what you learned
-- **Test Your Code**: Make sure others can run your code with clear instructions
-
----
-
-## 📚 Resources & Inspiration
-
-### Programming Resources
-- **Python Graphics**: Turtle, Matplotlib, Pygame, PIL etc
-
-### Pookalam Design Ideas
-- Traditional geometric patterns
-- Floral motifs and mandala designs
-- Colorful concentric circles
-- Interactive/animated elements
-- 3D rendered Pookalams
-
----
-
 ## 🏢 Organizer Information
 
 **Event Organized By:** TinkerHub RIT  
@@ -81,11 +54,3 @@ TinkerHub RIT is a community of makers, learners, and innovators at Rajiv Gandhi
 ## 🎊 Happy Coding & Happy Onam! 🎊
 
 *May your code bloom as beautifully as a traditional Pookalam!*
-
----
-
-**⭐ Don't forget to star this repository if you enjoyed the challenge!**
-
-### 🔗 Share Your Work
-After completing your submission, share it on social media with:
-**#CodeAPookalam2025 #TinkerHubRIT #Onam2025 #CodingChallenge**
