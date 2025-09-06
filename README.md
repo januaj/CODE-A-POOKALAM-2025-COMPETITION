@@ -12,7 +12,8 @@
 [This Pookalam is designed using a combination of geometric patterns and floral motifs. The design employs layered shapes such as circles, rectangles, diamonds, and petals arranged symmetrically to achieve balance and uniformity. A bright color palette of red, yellow, orange, coral, violet, and green has been used to represent festivity, harmony, and cultural significance. The approach focuses on blending traditional floral art with structured geometry, creating a visually appealing and meaningful design for Onam.]
 
 ### Preview
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam]([!pookalam-preview](https://github.com/user-attachments/assets/cd4cf59e-4e2f-46dc-9fc7-cce35757339c)
+g)
 
 ### Features
 - [1. Symmetrical Geometric Arrangement– Circles, rectangles, diamonds, and ellipses are arranged in perfect symmetry.]
